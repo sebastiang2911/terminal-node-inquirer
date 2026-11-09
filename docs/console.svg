@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430" role="img" aria-labelledby="title desc">
+  <title id="title">Salida de la aplicación TODO CLI</title>
+  <desc id="desc">Consola mostrando cuatro tareas completadas y sus fechas en horario de Bogotá.</desc>
+  <rect width="960" height="430" rx="14" fill="#101418"/>
+  <rect width="960" height="42" rx="14" fill="#252b31"/>
+  <rect y="28" width="960" height="14" fill="#252b31"/>
+  <circle cx="22" cy="21" r="7" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="7" fill="#febc2e"/>
+  <circle cx="70" cy="21" r="7" fill="#28c840"/>
+  <text x="480" y="27" text-anchor="middle" fill="#b7bec7" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14">TODO CLI — node app.ts</text>
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="17">
+    <text x="28" y="78" fill="#54d169">===========================</text>
+    <text x="28" y="106" fill="#54d169">   Select an option</text>
+    <text x="28" y="134" fill="#54d169">===========================</text>
+    <text x="28" y="178" fill="#e6edf3">✔ What do you want to do? <tspan fill="#54d169">3.</tspan> List completed tasks</text>
+    <text x="28" y="222" fill="#54d169">1.<tspan fill="#e6edf3"> Test1 :: </tspan>9/11/2026, 12:41 p. m.</text>
+    <text x="28" y="254" fill="#54d169">2.<tspan fill="#e6edf3"> Test2 :: </tspan>9/11/2026, 12:47 p. m.</text>
+    <text x="28" y="286" fill="#54d169">3.<tspan fill="#e6edf3"> Test3 :: </tspan>9/11/2026, 12:47 p. m.</text>
+    <text x="28" y="318" fill="#54d169">4.<tspan fill="#e6edf3"> Test4 :: </tspan>9/11/2026, 12:46 p. m.</text>
+    <text x="28" y="374" fill="#e6edf3">? Press <tspan fill="#54d169">ENTER</tspan> to continue</text>
+    <rect x="335" y="357" width="10" height="21" fill="#e6edf3" opacity="0.85"/>
+  </g>
+</svg>
